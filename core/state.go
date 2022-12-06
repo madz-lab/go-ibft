@@ -3,8 +3,8 @@ package core
 import (
 	"sync"
 
-	"github.com/0xPolygon/go-ibft/messages"
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/madz-lab/go-ibft/messages"
+	"github.com/madz-lab/go-ibft/messages/proto"
 )
 
 type stateType uint8

@@ -3,7 +3,7 @@ package messages
 import (
 	"bytes"
 
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/madz-lab/go-ibft/messages/proto"
 )
 
 type CommittedSeal struct {

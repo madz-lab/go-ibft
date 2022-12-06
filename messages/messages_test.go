@@ -1,7 +1,7 @@
 package messages
 
 import (
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/madz-lab/go-ibft/messages/proto"
 	"github.com/stretchr/testify/assert"
 	"strconv"
 	"testing"
